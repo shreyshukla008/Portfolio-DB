@@ -1,0 +1,40 @@
+
+{
+    "_id": {
+      "$oid": ""
+    },
+    "data": [
+      {
+        "title": "myFirst Project",
+        
+        "summary": "project1 summary",
+        
+        "details": {
+          
+          "technologiesUsed": [
+            
+            ],
+          
+            "keyFeatures": [
+            
+            ],
+          
+            "responsibilities": [
+          
+            ],
+          
+            "achievements": [
+            
+            ]
+        },
+        
+        "tags": ["web", "dsa"],
+        
+        "hosted_link": "#",
+        
+        "gitHub_link": "#",
+
+        "bg-url": "#"
+      }
+    ]
+  }
